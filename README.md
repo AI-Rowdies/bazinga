@@ -28,12 +28,6 @@ Pull and test llama3 model
 ollama pull llama3
 ollama run llama3
 ```
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. **Run the Script**
